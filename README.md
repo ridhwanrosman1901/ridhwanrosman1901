@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ridhwan Rosman</h1>
-<h3 align="center">Aspiring Full Stack Developer | Committed to building user-friendly web applications.</h3>
+<h1 align="left">Hi 👋, I'm Ridhwan Rosman</h1>
+<h3 align="left">Full Stack Developer | Committed to building user-friendly web applications.</h3>
 
 
 - 🌱 I’m currently learning **Full Stack Development**
