@@ -2,7 +2,7 @@
 <h3 align="left">👨‍💻 Full Stack Dev | 🚀 Continuous Learning | 🌐 Web Projects </h3>
 
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning [Full Stack Development](https://www.mongodb.com/resources/basics/full-stack-development)
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/ridhwanrosman1901?tab=repositories)
 
