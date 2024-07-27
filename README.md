@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridhwan Rosman</h1>
 <h3 align="center">Aspiring Full Stack Developer | Committed to building user-friendly web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhwanrosman1901&label=Profile%20views&color=0e75b6&style=flat" alt="ridhwanrosman1901" /> </p>
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/ridhwanrosman1901?tab=repositories)
