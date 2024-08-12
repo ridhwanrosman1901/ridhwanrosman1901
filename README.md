@@ -6,12 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/ridhwanrosman1901?tab=repositories).
 
-- 🥇 For Capstone Projects refer 'cproject_'.
-
-- 🥈 For Intermediate Projects refer 'iproject_'.
-
-- 🥉 For Small Projects refer 'project_'.
-
 - 📫 How to reach me [Click Link](https://mail.google.com/mail/u/0/?to=ridhwanmuhamad@gmail.com+Event&body=&fs=1&tf=cm)
 
 <h3 align="left">Connect with me:</h3>
