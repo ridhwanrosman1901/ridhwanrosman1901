@@ -1,12 +1,12 @@
-<h1 align="left">Hi 👋, I'm Ridhwan Rosman</h1>
+<h1 align="left">嗨 👋, 我是 Ridhwan Rosman</h1>
 <h3 align="left">👨‍💻 Full Stack Dev | 🚀 Continuous Learning | 🌐 Web Projects </h3>
 
 
-- 🌱 I’m currently learning [Full Stack Development](https://www.mongodb.com/resources/basics/full-stack-development)
+- 🌱 我目前正在学习 [Full Stack Development](https://www.mongodb.com/resources/basics/full-stack-development)
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ridhwanrosman1901?tab=repositories).
+- 👨‍💻 我的所有项目都可以在 [my repositories](https://github.com/ridhwanrosman1901?tab=repositories).
 
-- 📫 How to reach me [Click Link](https://mail.google.com/mail/u/0/?to=ridhwanmuhamad@gmail.com+Event&body=&fs=1&tf=cm)
+- 📫 如何联系我 [Click Link](https://mail.google.com/mail/u/0/?to=ridhwanmuhamad@gmail.com+Event&body=&fs=1&tf=cm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
